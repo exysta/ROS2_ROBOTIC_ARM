@@ -1,0 +1,6 @@
+source;share/octopus/hook/pythonpath.ps1
+source;share/octopus/hook/pythonpath.dsv
+source;share/octopus/hook/pythonpath.sh
+source;share/octopus/hook/ament_prefix_path.ps1
+source;share/octopus/hook/ament_prefix_path.dsv
+source;share/octopus/hook/ament_prefix_path.sh

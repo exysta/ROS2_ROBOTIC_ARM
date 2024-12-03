@@ -1,0 +1,38 @@
+[0.917s] Invoking command in '/root/ROS2_ROBOTIC_ARM/ros2_ws/src/octopus': PYTHONPATH=/root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/octopus build --build-base /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build install --record /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/install.log --single-version-externally-managed install_data
+[1.141s] running egg_info
+[1.141s] creating ../../build/octopus/octopus.egg-info
+[1.157s] writing ../../build/octopus/octopus.egg-info/PKG-INFO
+[1.158s] writing dependency_links to ../../build/octopus/octopus.egg-info/dependency_links.txt
+[1.158s] writing entry points to ../../build/octopus/octopus.egg-info/entry_points.txt
+[1.158s] writing requirements to ../../build/octopus/octopus.egg-info/requires.txt
+[1.158s] writing top-level names to ../../build/octopus/octopus.egg-info/top_level.txt
+[1.158s] writing manifest file '../../build/octopus/octopus.egg-info/SOURCES.txt'
+[1.192s] reading manifest file '../../build/octopus/octopus.egg-info/SOURCES.txt'
+[1.193s] adding license file 'LICENSE'
+[1.193s] writing manifest file '../../build/octopus/octopus.egg-info/SOURCES.txt'
+[1.193s] running build
+[1.193s] running build_py
+[1.193s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build
+[1.194s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib
+[1.194s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib/octopus
+[1.194s] copying octopus/my_node.py -> /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib/octopus
+[1.194s] copying octopus/__init__.py -> /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib/octopus
+[1.194s] running install
+[1.200s] running install_lib
+[1.216s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus
+[1.217s] copying /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib/octopus/my_node.py -> /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus
+[1.217s] copying /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build/lib/octopus/__init__.py -> /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus
+[1.217s] byte-compiling /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus/my_node.py to my_node.cpython-312.pyc
+[1.218s] byte-compiling /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus/__init__.py to __init__.cpython-312.pyc
+[1.218s] running install_data
+[1.218s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/share/ament_index
+[1.218s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/share/ament_index/resource_index
+[1.218s] creating /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/share/ament_index/resource_index/packages
+[1.219s] copying resource/octopus -> /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/share/ament_index/resource_index/packages
+[1.219s] copying package.xml -> /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/share/octopus
+[1.219s] running install_egg_info
+[1.237s] Copying ../../build/octopus/octopus.egg-info to /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages/octopus-0.0.0-py3.12.egg-info
+[1.237s] running install_scripts
+[1.344s] Installing my_node script to /root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/octopus
+[1.344s] writing list of installed files to '/root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/install.log'
+[1.365s] Invoked command in '/root/ROS2_ROBOTIC_ARM/ros2_ws/src/octopus' returned '0': PYTHONPATH=/root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ROS2_ROBOTIC_ARM/ros2_ws/install/octopus/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/octopus build --build-base /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/build install --record /root/ROS2_ROBOTIC_ARM/ros2_ws/build/octopus/install.log --single-version-externally-managed install_data
